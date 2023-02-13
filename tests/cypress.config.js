@@ -8,6 +8,5 @@ module.exports = defineConfig({
       user: 'fake',
       password: 'fake'
     },
-    "clientRoute": "/"
   },
 });
